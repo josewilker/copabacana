@@ -2,7 +2,7 @@
 The Future on your hand.
 
 ##Introduction
-COPACABANA is a small hardware projected for ESP8266 arch that can help you made IoT project.
+COPACABANA is the smallest hardware around capable to help you dive into the IoT adventure, based on ESP8266 arch
 
 ##Requirements
 For that you can use COPABACANA on your project.
